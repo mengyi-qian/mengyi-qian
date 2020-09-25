@@ -1,5 +1,7 @@
 <p align="center">
   <samp>
+    <br>
+    <br>
     Currently a graduate student in <i>Yale Graphic Design 21'</i>
     <br>
     Learned to code by accident and still learning...
