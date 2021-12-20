@@ -2,9 +2,9 @@
   <samp>
     <br>
     <br>
-    Currently a graduate student in <i>Yale Graphic Design 21'</i>
+    Graphic designer and front-end developer based in New Haven
     <br>
-    Learned to code by accident and still learning...
+    Recently graduated from <i>Yale School of Art</i>
     <br>
     <br>
     :cloud_with_rain:
